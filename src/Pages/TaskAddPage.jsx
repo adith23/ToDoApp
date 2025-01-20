@@ -51,7 +51,7 @@ function TaskaddPage() {
 
   const reminderOptions = [
     "None",
-    "5 minutesssss",
+    "5 minutes",
     "10 minutes",
     "Before start",
     "At start",
